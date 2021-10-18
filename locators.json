@@ -1,0 +1,74 @@
+{
+    "Appl": {
+        "confidence": 80.0,
+        "path": ".images\\image-appl.png",
+        "source": null,
+        "type": "image"
+    },
+    "SignIn": {
+        "confidence": 80.0,
+        "path": ".images\\image-signin.png",
+        "source": null,
+        "type": "image"
+    },
+    "continue_btn": {
+        "confidence": 70.0,
+        "path": ".images\\image-continue.png",
+        "source": null,
+        "type": "image"
+    },
+    "go_btn": {
+        "confidence": 60.0,
+        "path": ".images\\image-go_btn.png",
+        "source": null,
+        "type": "image"
+    },
+    "go_btn_2": {
+        "confidence": 70.0,
+        "path": ".images\\image-go_btn2.png",
+        "source": null,
+        "type": "image"
+    },
+    "option_num": {
+        "confidence": 80.0,
+        "path": ".images\\image-option_num.png",
+        "source": null,
+        "type": "image"
+    },
+    "password": {
+        "confidence": 80.0,
+        "path": ".images\\image-password.png",
+        "source": null,
+        "type": "image"
+    },
+    "product_code": {
+        "confidence": 61.0,
+        "path": ".images\\image-product_code.png",
+        "source": null,
+        "type": "image"
+    },
+    "ref_num": {
+        "confidence": 70.0,
+        "path": ".images\\image-ref_num.png",
+        "source": null,
+        "type": "image"
+    },
+    "submit_order": {
+        "confidence": 60.0,
+        "path": ".images\\image-submit_order.png",
+        "source": null,
+        "type": "image"
+    },
+    "totalPrice": {
+        "confidence": 80.0,
+        "path": ".images\\image-total_price.png",
+        "source": null,
+        "type": "image"
+    },
+    "username": {
+        "confidence": 60.0,
+        "path": ".images\\image-username.png",
+        "source": null,
+        "type": "image"
+    }
+}
